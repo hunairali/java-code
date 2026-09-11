@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 05 19:01:12 GMT+03:00 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019e-9884-5e5b-000002d9a538 
+on database directory memory:/Users/umairshah/Documents/sts-workspce/FirstDataApp/f5814586-68f4-4187-95d2-264a45b9426b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7a8c5397 
+Loaded from file:/Users/umairshah/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=25.0.2+10-LTS
+user.dir=/Users/umairshah/Documents/sts-workspce/FirstDataApp
+os.name=Mac OS X
+os.arch=aarch64
+os.version=26.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
